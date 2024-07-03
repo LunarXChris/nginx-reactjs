@@ -116,7 +116,7 @@ Open browser and go to http://localhost:5173. Electron might not work as TLS han
 
 The result should like this:
 
-![pdf_system](C:\Users\User\Desktop\pdf_system.png) 
+![pdf_system](https://github.com/LunarXChris/nginx-reactjs/blob/master/pdf_system.png) 
 
 #### Material UI
 
