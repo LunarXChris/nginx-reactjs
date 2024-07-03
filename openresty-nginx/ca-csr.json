@@ -1,0 +1,16 @@
+{
+  "CN": "Web",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "China",
+      "L": "HK",
+      "O": "nginx",
+      "OU": "System",
+      "ST": "HK"
+    }
+  ]
+}
